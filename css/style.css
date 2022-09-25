@@ -184,11 +184,11 @@ position: relative;
   text-align: center;
 }
 .section3-hr{
-  width: 100px;
+  width: 130px;
   height: 2px;
   border: 0;
   background-color:#734222;
-  margin-left: 450px;
+  margin-left: 440px;
   transition: .5s;
 }
 .section3-hr:hover{transform:scale(1.5,1)}
@@ -399,6 +399,8 @@ section2{
   z-index: 1;
   backface-visibility: hidden;
 }
+.front2{margin-top:30px;}
+ 
 .front1:hover,.front2:hover,.front3:hover{
   transform: rotatey(180deg);
 }
