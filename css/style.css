@@ -184,17 +184,17 @@ position: relative;
   text-align: center;
 }
 .section3-hr{
-  width: 70px;
+  width: 100px;
   height: 2px;
   border: 0;
   background-color:#734222;
-  margin-left: 480px;
+  margin-left: 450px;
   transition: .5s;
 }
 .section3-hr:hover{transform:scale(1.5,1)}
 .img2{ margin-top: 50px;}
 .img2 img{
-width: 198px;         height: 250px;
+width: 180px;         height: 250px;
 }
 .text2 ,.text3 ,.text4,.text5{
   color:#734222;
@@ -234,7 +234,7 @@ margin-left: 10px;
   opacity: 1;
 }
 .text6{background:#4B5320;
- width: 400px;       height: 260px;
+ width: 400px;       height: 280px;
 margin-top: 100px;
 color:beige;
 overflow: auto;
@@ -346,10 +346,11 @@ background-color:#734222;}
   margin-top: 90px;
 }
 .section5-hr{
-width: 80px;
+width: 110px;
 height: 2px;
 background-color:#734222;
-margin-left: 475px;
+margin-left: 460
+px;
 border: 0;
 transition: .5s;
 }
