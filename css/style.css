@@ -196,6 +196,8 @@ position: relative;
 .img2 img{
 width: 198px;         height: 250px;
 }
+edit{margin-left:50px;
+margin-top:-70px}
 .text2 ,.text3 ,.text4,.text5{
   color:#734222;
   float: left;
@@ -210,7 +212,7 @@ margin-left: 5px;
 margin-left: 7px;
 }
 .text5{
-margin-left: 10px;
+margin-left: 110px;
 }
 .ii1{margin-left: 165px;
   margin-top: -40px;
@@ -265,7 +267,7 @@ margin-top: 10px;
   font-size: 35px;
   float: left;
 }
-.img3 img{width: 195px;    height: 240px;
+.img3 img{width: 185px;    height: 240px;
 margin-top: -260px;
 float: left;
 transition: .5s;
