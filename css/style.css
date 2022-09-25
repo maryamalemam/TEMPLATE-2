@@ -196,6 +196,8 @@ position: relative;
 .img2 img{
 width: 185px;         height: 250px;
 }
+.edit{margin-left:70px;
+margin-top:-100px}
 .text2 ,.text3 ,.text4,.text5{
   color:#734222;
   float: left;
@@ -400,8 +402,7 @@ section2{
   z-index: 1;
   backface-visibility: hidden;
 }
-.front1,back1{margin-top:-10px;}
- .front3,back3{margin-top:10px;}
+
 .front1:hover,.front2:hover,.front3:hover{
   transform: rotatey(180deg);
 }
