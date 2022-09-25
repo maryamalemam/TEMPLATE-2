@@ -194,7 +194,7 @@ position: relative;
 .section3-hr:hover{transform:scale(1.5,1)}
 .img2{ margin-top: 50px;}
 .img2 img{
-width: 195px;         height: 250px;
+width: 185px;         height: 250px;
 }
 .text2 ,.text3 ,.text4,.text5{
   color:#734222;
@@ -400,8 +400,8 @@ section2{
   z-index: 1;
   backface-visibility: hidden;
 }
-.front1{margin-top:-20px;}
- .front3{margin-top:15px;}
+.front1,back1{margin-top:-10px;}
+ .front3,back3{margin-top:10px;}
 .front1:hover,.front2:hover,.front3:hover{
   transform: rotatey(180deg);
 }
