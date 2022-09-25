@@ -235,7 +235,7 @@ margin-left: 110px;
 .img2 i:hover{ 
   opacity: 1;
 }
-.text6{background:#4B5320;
+/*.text6{background:#4B5320;
  width: 400px;       height: 260px;
 margin-top: 100px;
 color:beige;
@@ -275,7 +275,7 @@ transition: .5s;
 .moist1{margin-left: 415px;}
 .moist2{margin-left: 610px}
 .moist1:hover,.moist2:hover{transform:scale(1.1,1.1);
-}
+}*/
 .sprites {
     display:flex;
     margin-bottom: 55px;
